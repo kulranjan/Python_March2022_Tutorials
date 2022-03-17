@@ -1,4 +1,4 @@
-# Comprehensions are one liners to save the customized iterables as an object
+# Comprehensions are 1 liners to save the customized iterables as an object
 
 L1 = []
 

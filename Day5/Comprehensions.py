@@ -1,9 +1,5 @@
 # Comprehensions are one liners to save the customized iterables as an object
 
-
-from numpy import log2
-
-
 L1 = []
 
 for value in range(5):

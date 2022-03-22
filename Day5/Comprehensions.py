@@ -1,8 +1,4 @@
-# Comprehensions are one liners to save the customized iterables as an object
-
-
-from numpy import log2
-
+# Comprehensions are 1 liners to save the customized iterables as an object
 
 L1 = []
 
@@ -19,7 +15,7 @@ L1 = [value for value in range(5)]
 print("Comprehensive way of filling empty list", L1)
 
 
-L2 = [value ** 3 for value in L1]
+L2 = [value**3 for value in L1]
 print("Customized L1 as L2", L2)
 
 

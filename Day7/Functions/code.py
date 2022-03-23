@@ -11,3 +11,10 @@ def return_function(x):
 print(print_function("This is 7th day of the session"))
 print()
 print(return_function("This is 7th day of the session"))
+
+
+def new_function(a, b, c):
+    return a, b, c
+
+
+print(new_function(1, b=2, c=5))

@@ -1,4 +1,4 @@
-# OOP Terms
+# Object Oriented Programming Terms
 
 ## 1. Class 
 ##### A Blueprint for creating objects of a particular type

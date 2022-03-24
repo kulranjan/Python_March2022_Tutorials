@@ -9,6 +9,6 @@
 ## 4. Object
 ##### A specific instance of a class
 ## 5. Inheritance
-##### Means by which a class can inherit capbilities from another class
+##### A class can inherit capbilities from another class
 ## 6. Composition
-##### Means of building complex objects out of other objects
+##### Building complex objects out of other objects

@@ -40,7 +40,7 @@ def get_files_recursively(directory):
         yield from get_files_recursively(subdirectory)
 
 
-files = get_files_recursively(r"C:\kdata\myPYTHON\MyLearnings\Python_Scripts\tkinter")
+files = get_files_recursively(r"C:\Users\knegi6\DXC Production\Data Lake Storage - Documents\BOT\Open Item Inventory Excel")
 
 for file_names in files:
     print(file_names)
